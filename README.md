@@ -8,6 +8,6 @@ VueJS é um framework Javascript fantástico p construir aplicações Frontend! 
 
 
 👤 **Roberta Soares**
-
 * Github: [@Rosooares](https://github.com/rosooares)
+* Github Pages: [@GitHub Pages](https://rosooares.github.io/curso-vue-udemy/)
 * Linkedin: [@Rosooares](https://www.linkedin.com/in/robertassoares/)
